@@ -6,8 +6,8 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="doituself.20190907092721.2"><vh>NewHeadline</vh></v>
-<v t="doituself.20190907092745.1"><vh>Imported Files</vh>
+<v t="doituself.20190907092745.1"><vh>500 TCM Notes</vh>
+<v t="doituself.20190921102703.1"><vh>@auto 如何区分津伤和津液不布</vh></v>
 <v t="doituself.20190907092745.2"><vh>@auto 22-为什么会头晕头痛.md</vh></v>
 <v t="doituself.20190907093235.1"><vh>@auto 30-为什么会气上冲.md</vh></v>
 <v t="doituself.20190907100807.1"><vh>@auto 31-为什么会头项强痛.md</vh></v>
@@ -19,7 +19,6 @@
 </v>
 </vnodes>
 <tnodes>
-<t tx="doituself.20190907092721.2"></t>
 <t tx="doituself.20190907092745.1"></t>
 </tnodes>
 </leo_file>
